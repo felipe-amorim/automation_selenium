@@ -35,3 +35,7 @@ Também é gerado um log de execuções gerais, separados por dia de execução,
 Para executar toda a suíte de testes sem precisar clicar manualmente em cada classe, clique com o botão direito no pacote de testes executáveis desejado e selecione a opção'Run Tests in' ou use o atalho Ctrl+Shift+F10
 
 ![Automacao_americanas](assets/pack_execution.png)
+
+Para alteração de massa de testes, ou das variáveis com o valor alocado em @Params, faça referência ao documento massa01.xls, localizado em src/test/resources/massaTeste.
+
+Obs: todas as células da planilha de massas devem estar formatadas como 'texto'.
